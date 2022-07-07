@@ -4,6 +4,11 @@ h1{
 
 .Boton{
   margin-bottom: 10px;
+  margin-right: 10px;
+}
+
+.CloseBoton{
+  border: 2px solid;
 }
 
 .App-logo {
